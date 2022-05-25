@@ -1,0 +1,96 @@
+Roopa Kabber
+Software Engineer
+Phone : 8310063708
+LinkedIn : linkedin.com/in/vidya-c-634a45175
+
+E-mail : vidyack99@gmail.com
+Github : github.com/VidyaCKabber
+
+SUMMERY
+Result-driven software engineer with over 4 years hands - on experience in design,
+development, automation, and quality assurance for different projects and clients.
+PROFESSIONAL SKILLS
+Programming Languages
+Database
+Development Tools
+Testing Tools
+Project Management Tool
+Test Management Tool
+Utilities
+Platforms
+
+-
+
+Python, Java, Rubi and C
+MySql, Sqlite
+PyCharm, Visual Studio Code and Eclipse
+PyTest, pCloudy, BrowserStack
+Jira
+TestLink
+Git
+Linux (Ubuntu) 
+
+WORK EXPERIENCE
+
+Full time Internship at Merahkee Technology Solutions (July, 2017 - Present)
+⚫ Contributing to Mammoth Analytics in backend development using Python
+and API Automation Scripts for Web App, MySql, PostgreSql, Salesforce,
+Google Drive and many more
+⚫ Worked On development of React-Native apps for Real-time GPS tracking,
+images storage on AWS S3 and Sapling Request management for an NGO.
+⚫ Led a team in developing high-quality software solutions web applications that
+allow users to monitor their web applications performance across multiple
+locations and hundreds of systems on the AWS cloud.
+⚫ Automated TestLink test case Status update process using Selenium, TestNG
+that has reduced manual work by 70%.
+SUSANDHI FELLOWSHIP PROGRAM
+
+Deshpande Education Trust & EkLakshya Innovation Labs (Aug, 2016 - July, 2017)
+⚫ LEAD Leadership training by conducting many social responsibility services
+like blood donation camp and taking classes for mentally disabled students.
+⚫ Presentation and Communication skill training.
+
+PROJECTS
+⚫ Oauth-token-of-third-party-clients : Update Third-party plugins - Salesforce,
+Hubspot, google analytics and Xero’s access tokens using refresh tokens
+through cron software periodically.
+⚫
+
+⚫
+
+Food Wastage Reduction Through Donation : Mobile app developed using
+React-Native and Google Fire Store.
+Toddler : To-Do List Mobile app which is developed using react-native hooks
+and sqlite local storage
+
+EDUCATION
+⚫
+
+⚫
+
+⚫
+
+B.Sc Specialization In Industrial Track | B.V.B College of Engineering &
+Technology, Hubli - Graduated in August, 2021 | CGPA - 9.47
+Pre-University Course from Govt. PU College Banavasi - Graduated in March,
+2016 | 88.8%
+SSLC | Jayanti High School, Banavasi - Graduated in April, 2014 | 93.12%
+
+ACCOMPLISHMENTS
+⚫
+
+⚫
+
+In 2012, the Department Of Science And Technology, Government Of INDIA
+awarded me an Inspire Award for my research project Agriculture Is All
+Seasonal Occupation.
+DigitalOcean's Hacktoberfest - 2020 Open Source contribution and won an
+awesome T-shirt.
+
+DECLARATION
+
+I hereby declare that the information furnished above is true to the best of my
+knowledge.
+[Vidya Kabber]
+
+
